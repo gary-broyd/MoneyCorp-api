@@ -1,3 +1,6 @@
-bin
-obj
-TestResults
+bin/
+obj/
+TestResults/
+TestResults/TestProject1/bin/
+TestProject1/obj/
+TestProject1/TestResults/
